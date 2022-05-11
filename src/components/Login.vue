@@ -86,7 +86,7 @@
                 </h2>
                 <p class="text-lg text-gray-500 text-center">
                   <span>By&nbsp;</span>
-                  <span class="font-bold">Alejandro Rodríguez Puerta</span>
+                  <span class="font-bold">Álvaro Lendínez</span>
                 </p>
               </div>
             </div>
